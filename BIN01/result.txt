@@ -1,0 +1,4 @@
+C:\Users\chenhansen\Desktop\word_count\c.txt,字符数: 89
+C:\Users\chenhansen\Desktop\word_count\c.txt,单词数: 12
+C:\Users\chenhansen\Desktop\word_count\c.txt,行数: 5
+C:\Users\chenhansen\Desktop\word_count\c.txt,码行/空行/注释行: 4/1/1/

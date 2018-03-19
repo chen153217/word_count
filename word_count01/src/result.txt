@@ -1,4 +1,1 @@
-C:\Users\chenhansen\Desktop\sdk1\word_count\src\a.txt,字符数: 37
-C:\Users\chenhansen\Desktop\sdk1\word_count\src\a.txt,单词数: 9
-C:\Users\chenhansen\Desktop\sdk1\word_count\src\a.txt,行数: 4
-C:\Users\chenhansen\Desktop\sdk1\word_count\src\a.txt,码行/空行/注释行: 3/1/1/
+char.c,单词数: 2

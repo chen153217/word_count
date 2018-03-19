@@ -1,3 +1,5 @@
+import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -32,6 +34,7 @@ public class Test {
 //        list.remove(1);
 //        System.out.println(list.size());
 
+
 //        if (args.length == 0) {
 //            return;
 //        } else {
@@ -48,10 +51,24 @@ public class Test {
 //        for(String s:files){
 //            System.out.println(s);
 //        }
-        BufferedReader buff=new BufferedReader(new FileReader("src\\Test.class"));
-        String str;
-        while((str=buff.readLine())!=null){
-            System.out.println(str);
-        }
+//        BufferedReader buff=new BufferedReader(new FileReader("src\\result.txt"));
+//        String str;
+//        int c;
+//        int i=0;
+//        while((c=buff.read())!=-1){
+//            System.out.println(c);
+//            i++;
+//        }
+//        System.out.println(i);
+//        String s="sdfs/sdfsd/sfd/sdfsdf";
+//        System.out.println(s.lastIndexOf("/"));
+//        System.out.println(s.substring(1));
+File f=new File("C:\\Users\\chenhansen\\Desktop\\word_count\\");
+        String[] s=f.list();
+        System.out.println(s[1]);
+
+//        while((str=buff.readLine())!=null){
+//            System.out.println(str+":"+str.length());
+//        }
     }
 }
